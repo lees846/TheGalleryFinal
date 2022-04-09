@@ -516,6 +516,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7338305770489599654, guid: 9a20fd357c9e74be3abf02c69b06917d, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a20fd357c9e74be3abf02c69b06917d, type: 3}
 --- !u!4 &295671234 stripped
@@ -3461,6 +3465,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 733358638}
     m_Modifications:
+    - target: {fileID: 1572918778347404882, guid: 9a20fd357c9e74be3abf02c69b06917d, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2682667195024230396, guid: 9a20fd357c9e74be3abf02c69b06917d, type: 3}
       propertyPath: m_Name
       value: Cloud (23)
