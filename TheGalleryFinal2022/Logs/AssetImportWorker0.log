@@ -2765,3 +2765,108 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1046.326816 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/LockMouse.cs
+  artifactKey: Guid(18eea0e8a9c4e4e8fb38abb37b53d409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/LockMouse.cs using Guid(18eea0e8a9c4e4e8fb38abb37b53d409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c340348493c88a6706bede99a810fa9') in 0.408100 seconds 
+  Import took 0.415033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005213 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/Optional/PauseMenu.cs
+  artifactKey: Guid(c74503d5381684bc39cb8f79ea852db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/Optional/PauseMenu.cs using Guid(c74503d5381684bc39cb8f79ea852db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1caf954418af7e674731dd3de9ddffd') in 0.001510 seconds 
+  Import took 0.003959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005644 seconds.
+  path: Assets/Prefabs/Environment.prefab
+  artifactKey: Guid(e7262a9afc4e64a79950f05d3089b551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment.prefab using Guid(e7262a9afc4e64a79950f05d3089b551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae377c7dad10f76f5dce7a01af3a858f') in 0.186837 seconds 
+  Import took 0.208158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002017 seconds.
+  path: Assets/Prefabs/OLDFamiliar Place.prefab
+  artifactKey: Guid(7e79be34afdc84934bc6b0309aaa1783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/OLDFamiliar Place.prefab using Guid(7e79be34afdc84934bc6b0309aaa1783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265910e88bbd51410cdf5314e2ac78ae') in 0.046647 seconds 
+  Import took 0.053823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002255 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/MouseLook.cs
+  artifactKey: Guid(2cd97f032c69e48f4a551aec475d5e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/MouseLook.cs using Guid(2cd97f032c69e48f4a551aec475d5e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b7b775e624ce347e68aab2d7b3c6ec') in 0.001542 seconds 
+  Import took 0.004352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004527 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/Optional/CheckIfBelowLevel.cs
+  artifactKey: Guid(f02db86390867458abd13c03319bf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/Optional/CheckIfBelowLevel.cs using Guid(f02db86390867458abd13c03319bf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da90143f996571d6c022f2832174c0b0') in 0.001542 seconds 
+  Import took 0.004077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004007 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/Optional/CameraZoom.cs
+  artifactKey: Guid(f6f00446844a44ac5b197c666ff94339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/Optional/CameraZoom.cs using Guid(f6f00446844a44ac5b197c666ff94339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6bf5e88e30cd125e5c5aecb35d3413') in 0.001714 seconds 
+  Import took 0.004197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008431 seconds.
+  path: Assets/Scenes/Grayboxing/S6_UnderWater.unity
+  artifactKey: Guid(75a7623a5b8724fd483bca229602e494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Grayboxing/S6_UnderWater.unity using Guid(75a7623a5b8724fd483bca229602e494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a72752e58527d1bbaf26726093f4a7fe') in 0.001303 seconds 
+  Import took 0.003470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007916 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/Utils/CameraFade.cs
+  artifactKey: Guid(25255a5f829be46528565974bb24e956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/Utils/CameraFade.cs using Guid(25255a5f829be46528565974bb24e956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b3c099186b36f3ae3098af0be61bc7') in 0.001676 seconds 
+  Import took 0.004297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002544 seconds.
+  path: Assets/Prefabs/AltEnvironment.prefab
+  artifactKey: Guid(18458ce93636a4562be47cfcff568cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AltEnvironment.prefab using Guid(18458ce93636a4562be47cfcff568cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130bdd80a823b8bd32c58cd8cbb92b87') in 0.135633 seconds 
+  Import took 0.156425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002015 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/Optional/CameraFadeOnStart.cs
+  artifactKey: Guid(7316427f6adfe4e42b100c26a3a53082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/Optional/CameraFadeOnStart.cs using Guid(7316427f6adfe4e42b100c26a3a53082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df0b8ec77d65cf587af0a01cb7e153') in 0.001403 seconds 
+  Import took 0.003624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008241 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs
+  artifactKey: Guid(c9ee6ff55b4ff41769a43e63bbd8c2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs using Guid(c9ee6ff55b4ff41769a43e63bbd8c2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d085ec8947d09bbcc1026c83cb6b4a4') in 0.001385 seconds 
+  Import took 0.003969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001519 seconds.
+  path: Assets/First Person Drifter Controller/Scripts/Optional/HeadBob.cs
+  artifactKey: Guid(d62a43906f26b4695a310e5e31521461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/First Person Drifter Controller/Scripts/Optional/HeadBob.cs using Guid(d62a43906f26b4695a310e5e31521461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f76661c1bed81ac77d16c35330803d4') in 0.001584 seconds 
+  Import took 0.004041 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
