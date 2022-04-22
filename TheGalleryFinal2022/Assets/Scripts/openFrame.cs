@@ -15,6 +15,7 @@ public class openFrame : MonoBehaviour
     // float totalTime = 0f;
     // public Quaternion StartingRotation;
 
+    public AudioSource songIntroClip;
     public GameObject Teleporter;
     void Start()
     {
@@ -23,6 +24,7 @@ public class openFrame : MonoBehaviour
         // StartingRotation = transform.rotation;
         // TargetRotation = new Quaternion(-104, 0, 0, 1);
         
+        StartCoroutine(CountingSeconds());
     }
 
     // Update is called once per frame
@@ -32,6 +34,7 @@ public class openFrame : MonoBehaviour
     //     if(totalTime >= MovementTime) totalTime = MovementTime;
     //     UpdateTargetRotation();
     //     transform.rotation = Quaternion.Lerp(StartingRotation, TargetRotation, totalTime/MovementTime);
+   
     }
 
     // void UpdateTargetRotation()
@@ -40,16 +43,40 @@ public class openFrame : MonoBehaviour
     // }
 
     // Non-Gradual transform:
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.CompareTag("Player")){
-            // when triggered, rotate the door from the hinge
+    // opens at 29 sec
+    // void OnTriggerEnter(Collider other)
+    // {
+    //     if (other.gameObject.CompareTag("Player")){
+    //         // when triggered, rotate the door from the hinge
+    //         transform.Rotate(-105, 0, 0);
+
+    //         GameObject portal = Instantiate(Teleporter);
+    //         portal.name = "Portal";
+    //         portal.layer = 0;
+
+    //     }
+    // }
+
+    // From https://docs.unity3d.com/ScriptReference/WaitForSeconds.html
+     IEnumerator CountingSeconds()
+     {
+
+         //start song 
+
+
+         while (songIntroClip.time <= 29f)
+         {
+             yield return null;
+         }
+
             transform.Rotate(-105, 0, 0);
 
             GameObject portal = Instantiate(Teleporter);
             portal.name = "Portal";
             portal.layer = 0;
+        //yield on a new YieldInstruction that waits for 5 seconds.
+        // yield return new WaitForSeconds(30);
 
-        }
-    }
+        // open = true;
+     }
 }
