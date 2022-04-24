@@ -1363,6 +1363,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a357421ffdbeb4a4b919b370f7b3aa9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MovementTime: 2.5
+  StartingRotation: {x: 0, y: 0, z: 0, w: 0}
   songIntroClip: {fileID: 1671664144}
   Teleporter: {fileID: 2473865760581333125, guid: 45f3de65e8e1f457da78bd27bded0db0, type: 3}
 --- !u!65 &635271003
@@ -1663,7 +1665,7 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 1, g: 0.82816327, b: 0.5613208, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 16.36
   m_Range: 10
   m_SpotAngle: 58
