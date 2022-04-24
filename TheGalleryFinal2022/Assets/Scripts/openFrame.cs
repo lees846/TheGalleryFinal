@@ -18,14 +18,10 @@ public class openFrame : MonoBehaviour
     {
         totalTime = 0f;
         StartingRotation = transform.localRotation;
-        // TargetRotation = Quaternion.EulerAngles(-105, 0, 0);
+        TargetRotation = Quaternion.EulerAngles(105, 0, 0);
         StartCoroutine(CountingSeconds());
     }
 
-    void Update()
-    {
-        // totalTime += Time.deltaTime;
-    }
     // From https://docs.unity3d.com/ScriptReference/WaitForSeconds.html
      IEnumerator CountingSeconds()
      {
@@ -34,11 +30,14 @@ public class openFrame : MonoBehaviour
          {
              yield return null;
          }
-         while (songIntroClip.time >= 29f && songIntroClip.time <= 31.5f)
+         while (totalTime < MovementTime)
          {
+            yield return null;
+            totalTime += Time.deltaTime;
             transform.localRotation = Quaternion.Lerp(StartingRotation, TargetRotation, totalTime/MovementTime);
             // Debug.Log(totalTime);
             // Debug.Log("Target: " + TargetRotation + " Start: " + StartingRotation);
+
          }
             GameObject portal = Instantiate(Teleporter);
             portal.name = "Portal";
