@@ -50,6 +50,7 @@
      <Compile Include="Assets/First Person Drifter Controller/Scripts/Optional/CheckIfBelowLevel.cs" />
      <Compile Include="Assets/First Person Drifter Controller/Scripts/Optional/CameraZoom.cs" />
      <Compile Include="Assets/Scripts/frameLightEffect.cs" />
+     <Compile Include="Assets/Scripts/breakFrame.cs" />
      <None Include="Assets/First Person Drifter Controller/info.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/2020.3.26f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>

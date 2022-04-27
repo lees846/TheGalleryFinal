@@ -25,6 +25,7 @@ public class frameLightEffect : MonoBehaviour
 
     void BrightenLight()
     {
+        // Reference https://docs.unity3d.com/530/Documentation/ScriptReference/Light-intensity.html
         frameLight.intensity = activeIntensity;
 
     }

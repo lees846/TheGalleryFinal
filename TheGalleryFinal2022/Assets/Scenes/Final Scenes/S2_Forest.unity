@@ -789,5 +789,9 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 7939868994360457745, guid: e7262a9afc4e64a79950f05d3089b551, type: 3}
+      propertyPath: activeIntensity
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e7262a9afc4e64a79950f05d3089b551, type: 3}
