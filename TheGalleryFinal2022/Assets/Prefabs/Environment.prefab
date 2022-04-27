@@ -997,7 +997,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 2684112824784328360}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5000001
   m_Height: 2
   m_Direction: 1
@@ -1474,7 +1474,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 2684112826107217016}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5000001
   m_Height: 2
   m_Direction: 1
@@ -1665,7 +1665,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 2684112826348213445}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5000001
   m_Height: 2
   m_Direction: 1
@@ -4017,6 +4017,14 @@ PrefabInstance:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
       value: FrameCorner
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8992286
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
@@ -65972,6 +65980,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: OverFrame
       objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.9295864
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -66178,6 +66194,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: EmptyFrame Puddle2
       objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.9789009
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -66363,6 +66387,14 @@ PrefabInstance:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
       value: TiltedFrame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder

@@ -2430,7 +2430,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 4955745047719999418}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5000001
   m_Height: 2
   m_Direction: 1
@@ -2653,7 +2653,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 4955745048329811415}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5000001
   m_Height: 2
   m_Direction: 1
@@ -2939,7 +2939,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 4955745048506901866}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 0.5000001
   m_Height: 2
   m_Direction: 1
@@ -12143,6 +12143,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Corner stairs frame
       objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -12368,6 +12376,14 @@ PrefabInstance:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
       value: Puddle Frame (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
@@ -21002,7 +21018,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
-      value: Over Frame (1)
+      value: Under Frame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
@@ -25664,6 +25688,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: First Frame
       objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -27701,6 +27733,14 @@ PrefabInstance:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
       value: Stumps Frame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
@@ -31266,6 +31306,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Puddle Frame
       objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -32225,6 +32273,14 @@ PrefabInstance:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
       value: Twisty Top Frame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
@@ -35239,6 +35295,14 @@ PrefabInstance:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
       value: Tilted Frame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
@@ -62594,6 +62658,14 @@ PrefabInstance:
     - target: {fileID: 4746834422035626239, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_Name
       value: Over Frame
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8857479
+      objectReference: {fileID: 0}
+    - target: {fileID: 5234438568052662653, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5380662930284470853, guid: 593d0dbfd2f704f049a23fa010006a7a, type: 3}
       propertyPath: m_RootOrder
