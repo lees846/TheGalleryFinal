@@ -23,6 +23,8 @@ public class openFrame : MonoBehaviour
     }
 
     // From https://docs.unity3d.com/ScriptReference/WaitForSeconds.html
+    // and https://docs.unity3d.com/ScriptReference/Quaternion.Lerp.html.
+    // Jason also helped
      IEnumerator CountingSeconds()
      {
          //start song 
