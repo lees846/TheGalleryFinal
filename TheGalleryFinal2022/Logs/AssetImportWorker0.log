@@ -1270,3 +1270,84 @@ Received Import Request.
 Start importing Assets/Scenes/Final Scenes/S3_Escalation/ReflectionProbe-0.exr using Guid(4434042f5f9f44e36bbc26fb8d6a26df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087814b8e7447c81634e205c4cae0c15') in 0.015468 seconds 
   Import took 0.019386 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 186.201387 seconds.
+  path: Assets/Prefabs/Nature/Bush.prefab
+  artifactKey: Guid(8a8f0ee3cb3b04c6c881a17fb4700722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Nature/Bush.prefab using Guid(8a8f0ee3cb3b04c6c881a17fb4700722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a754e0d96debd2050a0fdc118d634e') in 0.017644 seconds 
+  Import took 0.021097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 499.928756 seconds.
+  path: Assets/Materials/Textures/WallTextureEdited.png
+  artifactKey: Guid(31f10b4943b4c447a8c40a710c25f36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/WallTextureEdited.png using Guid(31f10b4943b4c447a8c40a710c25f36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8710c80bfd5060a51052e1899868f1c4') in 0.747286 seconds 
+  Import took 0.756088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.873991 seconds.
+  path: Assets/Materials/Textures/WallTexture.jpg
+  artifactKey: Guid(875519a00ff244b38937a5ec023f753b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/WallTexture.jpg using Guid(875519a00ff244b38937a5ec023f753b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ded0fa214d2788cb2c1989f1504e4de') in 0.011401 seconds 
+  Import took 0.016192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.082325 seconds.
+  path: Assets/Materials/GalleryWalls.mat
+  artifactKey: Guid(441a0eff5719e4f6e9508bb59bf3d71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GalleryWalls.mat using Guid(441a0eff5719e4f6e9508bb59bf3d71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a45bc99bae389a6120acb6fd2a67af') in 0.015580 seconds 
+  Import took 0.020630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.329534 seconds.
+  path: Assets/Materials/Textures/FloorTexture.jpg
+  artifactKey: Guid(f0371bf4a98c84942a689bac44ebf4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/FloorTexture.jpg using Guid(f0371bf4a98c84942a689bac44ebf4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d9ddc270271bb5dd3ee5613c1111266') in 0.013242 seconds 
+  Import took 0.017505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 707.447534 seconds.
+  path: Assets/Materials/Textures/FloorTextureEdited.png
+  artifactKey: Guid(3626f721f7ba8420bbbe5fcaa271609a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/FloorTextureEdited.png using Guid(3626f721f7ba8420bbbe5fcaa271609a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96358797fefee2dbb4ca4a9f58126488') in 0.014196 seconds 
+  Import took 0.019848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.934877 seconds.
+  path: Assets/Materials/Materials/WallTextureEdited.mat
+  artifactKey: Guid(a9a12e0e5fd2b4183bf67b72b72dce0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/WallTextureEdited.mat using Guid(a9a12e0e5fd2b4183bf67b72b72dce0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf32257f947fa94fd9fd292cad4647dd') in 0.008333 seconds 
+  Import took 0.012103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.704583 seconds.
+  path: Assets/Materials/AlbumImg.mat
+  artifactKey: Guid(28debc6eeec9c49b8b88e37b6f563032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/AlbumImg.mat using Guid(28debc6eeec9c49b8b88e37b6f563032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4707811036b66f37b28edf1ec1df611e') in 0.012793 seconds 
+  Import took 0.016730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Materials/GalleryWalls.mat
+  artifactKey: Guid(441a0eff5719e4f6e9508bb59bf3d71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GalleryWalls.mat using Guid(441a0eff5719e4f6e9508bb59bf3d71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b03ebb97770316618c28acbbb41768') in 0.020159 seconds 
+  Import took 0.022985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Materials/FloorBoards.mat
+  artifactKey: Guid(8ca2e9c9d67e24fb6913b41f5e442f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FloorBoards.mat using Guid(8ca2e9c9d67e24fb6913b41f5e442f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '545c0ce29cd42d06bd82d6fc69e58ebc') in 0.015050 seconds 
+  Import took 0.018638 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
