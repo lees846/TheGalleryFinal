@@ -14,6 +14,7 @@ public class openFrame : MonoBehaviour
     public Quaternion StartingRotation = Quaternion.EulerAngles(-105, 0, 0);
     public AudioSource songIntroClip;
     public GameObject Teleporter;
+    public Transform PortalTarget;
     void Start()
     {
         totalTime = 0f;
@@ -41,7 +42,7 @@ public class openFrame : MonoBehaviour
             // Debug.Log("Target: " + TargetRotation + " Start: " + StartingRotation);
 
          }
-            GameObject portal = Instantiate(Teleporter);
+            GameObject portal = Instantiate(Teleporter, PortalTarget.position, Quaternion.identity);
             portal.name = "Portal";
             portal.layer = 0;
      }
