@@ -236,8 +236,8 @@ Light:
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
+    m_Bias: 0.005
+    m_NormalBias: 0.22
     m_NearPlane: 0.2
     m_CullingMatrixOverride:
       e00: 1
@@ -764,8 +764,8 @@ Light:
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
+    m_Bias: 0.005
+    m_NormalBias: 0
     m_NearPlane: 0.2
     m_CullingMatrixOverride:
       e00: 1
@@ -2134,11 +2134,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8134960521195802098, guid: 4a548cf34f3574107a2582886da6220a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.16452767
+      value: -0.1645
       objectReference: {fileID: 0}
     - target: {fileID: 8134960521195802098, guid: 4a548cf34f3574107a2582886da6220a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9992594
+      value: 0.79
       objectReference: {fileID: 0}
     - target: {fileID: 8134960521195802098, guid: 4a548cf34f3574107a2582886da6220a, type: 3}
       propertyPath: m_LocalPosition.z
