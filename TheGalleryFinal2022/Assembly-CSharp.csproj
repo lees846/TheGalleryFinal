@@ -42,6 +42,7 @@
      <Compile Include="Assets/First Person Drifter Controller/Scripts/MouseLook.cs" />
      <Compile Include="Assets/First Person Drifter Controller/Scripts/Optional/HeadBob.cs" />
      <Compile Include="Assets/First Person Drifter Controller/Scripts/LockMouse.cs" />
+     <Compile Include="Assets/Scripts/fadeOut.cs" />
      <Compile Include="Assets/Scripts/frameLightEffect.cs" />
      <Compile Include="Assets/Scripts/hover.cs" />
      <Compile Include="Assets/Scripts/openFrame.cs" />
@@ -51,7 +52,7 @@
      <Compile Include="Assets/First Person Drifter Controller/Scripts/Optional/CheckIfBelowLevel.cs" />
      <Compile Include="Assets/First Person Drifter Controller/Scripts/Optional/CameraZoom.cs" />
      <Compile Include="Assets/Scripts/breakFrame.cs" />
-     <Compile Include="Assets/Scripts/fadeOut.cs" />
+     <Compile Include="Assets/Scripts/floating.cs" />
      <None Include="Assets/First Person Drifter Controller/info.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/2020.3.26f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
