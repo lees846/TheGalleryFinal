@@ -33,6 +33,10 @@ public class openFrame : MonoBehaviour
          {
              yield return null;
          }
+        GameObject portal = Instantiate(Teleporter, PortalTarget.position, Quaternion.identity);
+            portal.name = "Portal";
+            portal.layer = 0;
+            
          while (totalTime < MovementTime)
          {
             yield return null;
@@ -42,8 +46,6 @@ public class openFrame : MonoBehaviour
             // Debug.Log("Target: " + TargetRotation + " Start: " + StartingRotation);
 
          }
-            GameObject portal = Instantiate(Teleporter, PortalTarget.position, Quaternion.identity);
-            portal.name = "Portal";
-            portal.layer = 0;
+           
      }
 }
