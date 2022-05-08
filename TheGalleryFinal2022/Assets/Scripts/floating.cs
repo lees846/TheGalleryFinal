@@ -6,6 +6,9 @@ public class floating : MonoBehaviour
 {
     public Vector3 startPosition; 
     public float offset = 0f;
+    public float amplitude = 0f;
+    public float frequency = 0f;
+
 
     void Start()
     {
@@ -15,8 +18,10 @@ public class floating : MonoBehaviour
     // 
     void Update()
     {
-        Vector3 newPosition = new Vector3(startPosition.x,
-        startPosition.y + Mathf.Sin(Time.frameCount + offset),
+        Vector3 newPosition = new Vector3(startPosition.x + Mathf.Sin(frequency*Time.frameCount + offset) * amplitude,
+        startPosition.y + Mathf.Sin(frequency*Time.frameCount) * amplitude,
         startPosition.z);
+
+        transform.localPosition = newPosition;
     }
 }
