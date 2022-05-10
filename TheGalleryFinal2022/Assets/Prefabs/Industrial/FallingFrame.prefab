@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 039b3505ffd99431083c65ffe64deb52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  activeIntensity: 15
+  activeIntensity: 50
   frameLight: {fileID: 7801277783186602593}
 --- !u!65 &448181039078803475
 BoxCollider:
