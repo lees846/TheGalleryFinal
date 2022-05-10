@@ -1846,3 +1846,332 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 768.279392 seconds.
+  path: Assets/RainMaker/Prefab
+  artifactKey: Guid(32d17ae8bec4ec34398b6539e0f511ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab using Guid(32d17ae8bec4ec34398b6539e0f511ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6949d216ac77d54e89daeff185caf1e1') in 0.004123 seconds 
+  Import took 0.007880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.263821 seconds.
+  path: Assets/RainMaker/Prefab/RainExplosionMaterial.mat
+  artifactKey: Guid(bd4df8ad7f6a91b4aad18ac427db8176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainExplosionMaterial.mat using Guid(bd4df8ad7f6a91b4aad18ac427db8176) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+ -> (artifact id: '16f91b9d4923dcb20bb5fe9ed0c8f9de') in 0.133364 seconds 
+  Import took 0.136083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/RainMaker/Prefab/RainPrefab.prefab
+  artifactKey: Guid(69b40ef7ee16c834c844b3fa26e0fdda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainPrefab.prefab using Guid(69b40ef7ee16c834c844b3fa26e0fdda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+ -> (artifact id: 'b9fc8a08470f38df477ab84ad699a8e8') in 0.117814 seconds 
+  Import took 0.124747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/RainMaker/Prefab/RainMaterial2D.mat
+  artifactKey: Guid(c8c162af3fac7f145b8d1295eff18b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainMaterial2D.mat using Guid(c8c162af3fac7f145b8d1295eff18b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e22296bc5015474dcb1c252855b77a0') in 0.095436 seconds 
+  Import took 0.098040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/RainMaker/Prefab/RainPrefab2D.prefab
+  artifactKey: Guid(b046278bb9b6e104790392b566667ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainPrefab2D.prefab using Guid(b046278bb9b6e104790392b566667ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f0cb999ef636e0fbb80f52eadeb0bca') in 0.013536 seconds 
+  Import took 0.016228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/RainMaker/Prefab/RainTexturePSD.psd
+  artifactKey: Guid(b4533cd6f001345258e575db8a0f8ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainTexturePSD.psd using Guid(b4533cd6f001345258e575db8a0f8ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8edf8241b804be016e01bfb780b1a7c7') in 0.012608 seconds 
+  Import took 0.015032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/RainMaker/Prefab/RainTexture.png
+  artifactKey: Guid(0bf90ccca9a75684795d89669e00f773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainTexture.png using Guid(0bf90ccca9a75684795d89669e00f773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c1e39ed6b077766ec43ae60128ecb4') in 0.007030 seconds 
+  Import took 0.009117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/RainMaker/Prefab/RainMistMaterial2D.mat
+  artifactKey: Guid(03c4b968ffb030646b5abe98dff68dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainMistMaterial2D.mat using Guid(03c4b968ffb030646b5abe98dff68dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c614949c75b800c1b54ca30a4af9e2') in 0.010423 seconds 
+  Import took 0.012765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/RainMaker/Prefab/RainMaterial.mat
+  artifactKey: Guid(5a5cdbef1fec3ec4ab759228c8234ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainMaterial.mat using Guid(5a5cdbef1fec3ec4ab759228c8234ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+ -> (artifact id: '270aea3a1d393d0f0829497398b72849') in 0.012168 seconds 
+  Import took 0.015070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/RainMaker/Prefab/RainMistMaterial.mat
+  artifactKey: Guid(26903820d8bdf4145af868b7b12d0e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainMistMaterial.mat using Guid(26903820d8bdf4145af868b7b12d0e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+ -> (artifact id: 'b4b4934e58eb66aaf069b3856cf3a45c') in 0.011560 seconds 
+  Import took 0.014189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/RainMaker/Prefab/RainExplosionMaterial2D.mat
+  artifactKey: Guid(519ffdde64b6aa54180d54372779f0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RainMaker/Prefab/RainExplosionMaterial2D.mat using Guid(519ffdde64b6aa54180d54372779f0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067b3e71575fa621c347ddc08a0d3448') in 0.010610 seconds 
+  Import took 0.013577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.836838 seconds.
+  path: Assets/Scenes/Final Scenes/S4_AltFamiliar.unity
+  artifactKey: Guid(922807323e75f4a089b55680cc76fb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Final Scenes/S4_AltFamiliar.unity using Guid(922807323e75f4a089b55680cc76fb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c22baa9240b2cb2e6efd2e3ceb72de') in 0.001064 seconds 
+  Import took 0.003741 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003423 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-10 16:58:44.689 Unity[80705:10572837] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003a159d0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.392 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1393ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (58ms)
+		EndReloadAssembly (1182ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (426ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (418ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (133ms)
+				ProcessInitializeOnLoadAttributes (267ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.2 MB.
+System memory in use after: 218.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2452.
+Total: 3.949922 ms (FindLiveObjects: 0.133838 ms CreateObjectMapping: 0.043375 ms MarkObjects: 3.756804 ms  DeleteObjects: 0.015337 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-10 17:01:55.950 Unity[80705:10572837] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003a1a450 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.400 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1401ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1208ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (396ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (442ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (149ms)
+				ProcessInitializeOnLoadAttributes (273ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (28ms)
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.2 MB.
+System memory in use after: 218.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2465.
+Total: 3.657916 ms (FindLiveObjects: 0.254643 ms CreateObjectMapping: 0.119574 ms MarkObjects: 3.267667 ms  DeleteObjects: 0.015246 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2355.838162 seconds.
+  path: Assets/Materials/Textures/RainDrop.png
+  artifactKey: Guid(d09c183663b184891898c27cc869bbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RainDrop.png using Guid(d09c183663b184891898c27cc869bbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6615e5e28369132bc145ac40f0b520d') in 0.069304 seconds 
+  Import took 0.075180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.180564 seconds.
+  path: Assets/Materials/Jiggly Bubble Free
+  artifactKey: Guid(7257af55c7e1642758967b915ca90074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Jiggly Bubble Free using Guid(7257af55c7e1642758967b915ca90074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b642f6f1c2c5e7237d04a1658c4ec108') in 0.000981 seconds 
+  Import took 0.004792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078366 seconds.
+  path: Assets/Materials/Jiggly Bubble Free/New Material.mat
+  artifactKey: Guid(6cfc57fe11ba6425a94696b30f04550c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Jiggly Bubble Free/New Material.mat using Guid(6cfc57fe11ba6425a94696b30f04550c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcb98f88bc3b83e8c507f996197fc1ba') in 0.056092 seconds 
+  Import took 0.062304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.364696 seconds.
+  path: Assets/Materials/Textures/RainDrop.png
+  artifactKey: Guid(d09c183663b184891898c27cc869bbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Textures/RainDrop.png using Guid(d09c183663b184891898c27cc869bbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3bd5379f246574b55c312a015ec6977') in 0.016569 seconds 
+  Import took 0.021030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.293269 seconds.
+  path: Assets/Materials/RainDrops.mat
+  artifactKey: Guid(2724384a5204a4146adbb50281258130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RainDrops.mat using Guid(2724384a5204a4146adbb50281258130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01806201791e15b137dd170fdbc6bf7') in 0.018979 seconds 
+  Import took 0.027825 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006054 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-10 17:56:41.506 Unity[80705:10572837] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003a485b0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.104 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2105ms)
+		BeginReloadAssembly (180ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (87ms)
+		EndReloadAssembly (1803ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (630ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (99ms)
+			SetupLoadedEditorAssemblies (634ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (213ms)
+				ProcessInitializeOnLoadAttributes (394ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (39ms)
+Platform modules already initialized, skipping
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.5 MB.
+System memory in use after: 218.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2479.
+Total: 5.058138 ms (FindLiveObjects: 0.244291 ms CreateObjectMapping: 0.094294 ms MarkObjects: 4.692566 ms  DeleteObjects: 0.025583 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1268.018924 seconds.
+  path: Assets/Materials/RainDrops.mat
+  artifactKey: Guid(2724384a5204a4146adbb50281258130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RainDrops.mat using Guid(2724384a5204a4146adbb50281258130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a212762a4af205122e1172e0272525') in 0.347390 seconds 
+  Import took 0.353687 seconds .
+
