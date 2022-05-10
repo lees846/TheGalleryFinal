@@ -1,9 +1,11 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - DontDestroy
     - FirstPersonDrifter
     - LockMouse
     - MouseLook
+    - Quit
     - audioEndSceneSwap
     - breakFrame
     - fadeOut
@@ -16,10 +18,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -51,6 +51,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
     - Class: 65
@@ -70,13 +72,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2118}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 2572}
     - Class: 114
-      Script: {instanceID: 2658}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 3534}
+      Script: {instanceID: 3536}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3800}
+    - Class: 114
+      Script: {instanceID: 2842342}
+    - Class: 114
+      Script: {instanceID: 2842370}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -88,6 +94,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -129,13 +139,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2192}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 2572}
     - Class: 114
-      Script: {instanceID: 2658}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 3018}
+      Script: {instanceID: 3020}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3800}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -149,6 +159,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -190,13 +204,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2192}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 2572}
     - Class: 114
-      Script: {instanceID: 2658}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 3018}
+      Script: {instanceID: 3020}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3800}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -210,6 +224,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -251,13 +269,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2192}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 2572}
     - Class: 114
-      Script: {instanceID: 2658}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3800}
     - Class: 114
-      Script: {instanceID: 4284}
+      Script: {instanceID: 4286}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -271,6 +289,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -310,13 +332,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2192}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 2572}
     - Class: 114
-      Script: {instanceID: 2658}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 3018}
+      Script: {instanceID: 3020}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3800}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -326,6 +348,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -373,25 +399,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1484}
     - Class: 114
-      Script: {instanceID: 2298}
+      Script: {instanceID: 2246}
     - Class: 114
-      Script: {instanceID: 2410}
+      Script: {instanceID: 2300}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 2412}
     - Class: 114
-      Script: {instanceID: 2578}
+      Script: {instanceID: 2572}
     - Class: 114
-      Script: {instanceID: 2658}
+      Script: {instanceID: 2580}
     - Class: 114
-      Script: {instanceID: 2764}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 2850}
+      Script: {instanceID: 2766}
     - Class: 114
-      Script: {instanceID: 3018}
+      Script: {instanceID: 2852}
     - Class: 114
-      Script: {instanceID: 3798}
+      Script: {instanceID: 3020}
     - Class: 114
-      Script: {instanceID: 383606}
+      Script: {instanceID: 3800}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -529,6 +555,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CameraFade
+  - hash:
+      serializedVersion: 2
+      Hash: 6c90110bff02495a86115fb1c7c698f8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: floating
   - hash:
       serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
@@ -933,10 +965,16 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
-      Hash: 897b9fdbeb330103614801434339365a
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: floating
+    className: DontDestroy
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Quit
   platform: 2
   scenePathNames:
   - Assets/Scenes/Final Scenes/S1_Gallery.unity
@@ -945,4 +983,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Final Scenes/S4_AltFamiliar.unity
   - Assets/Scenes/Final Scenes/S5_Descent.unity
   - Assets/Scenes/Final Scenes/S6_UnderWater.unity
-  playerPath: /Users/shaylalee/Desktop/Parsons/Second Year/Semester 2/Core Lab Env./Final/Unity/Builds/TestBuild_050622.app
+  playerPath: /Users/shaylalee/Desktop/Parsons/Second Year/Semester 2/Core Lab Env./Final/Unity/Builds/TestBuild_050922.app
